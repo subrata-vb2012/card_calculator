@@ -1,16 +1,20 @@
-# card_game_calculator
+🧮 Card Calculator – Callbridge Score Tool
+Description:
+ A utility app to calculate scores for the Callbridge card game.
+Tech Stack:
+ Flutter
+Features:
+Add player names and bids
 
-A new Flutter project.
 
-## Getting Started
+Calculate score after each round
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Reset / New Game option
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run Locally:
+git clone https://github.com/subrata731215/card_calculator.git
+cd card_calculator
+flutter pub get
+flutter run
